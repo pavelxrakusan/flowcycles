@@ -1,6 +1,6 @@
 {
-  "slug": "garbaruk",
   "name": "Garbaruk",
+  "slug": "garbaruk",
   "tagline": "Built in Poland. Ridden everywhere.",
   "description": "Ultra-lehké komponenty. CNC kazety, převodníky, kliky a kladky v anodizovaných barvách na míru.",
   "story": "Bratři Garbaruk založili značku v polovině 2000s jako malou karbonovou dílnu. Dnes vyrábějí v Polsku u Krakova.",
@@ -13,5 +13,6 @@
   ],
   "origin": "Krakov, Polsko",
   "website": "https://www.garbaruk.com",
-  "accentColor": "#ff9800"
+  "accentColor": "#ff9800",
+  "logo": "/assets/55037.png"
 }
