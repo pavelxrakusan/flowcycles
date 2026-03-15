@@ -1,6 +1,6 @@
 {
-  "slug": "pine-wheels",
   "name": "PINE Wheels",
+  "slug": "pine-wheels",
   "tagline": "České karbonové kola. Bez kompromisů.",
   "description": "Česká značka karbonových kol pro MTB a CX. Špičková karbonová kola nemusí stát dva měsíční platy.",
   "story": "PINE Wheels se zrodily po brutálním závodě a diskuzi o tom, jestli karbonová kola musí být tak drahá.",
@@ -11,5 +11,6 @@
   ],
   "origin": "Česká republika",
   "website": "https://www.pine-wheels.com",
-  "accentColor": "#4caf50"
+  "accentColor": "#4caf50",
+  "logo": "/assets/4c4907_b13c9d4ba88a4d5b81767ff683053327~mv2.avif"
 }
