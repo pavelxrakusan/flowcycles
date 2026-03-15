@@ -1,68 +1,45 @@
-import { readFileSync } from "fs";
+/**
+ * Content helpers for Tina CMS.
+ *
+ * In production (Vercel), reads directly from content/ JSON files.
+ * In dev mode with `tinacms dev`, reads from Tina GraphQL API.
+ *
+ * No import of tina/__generated__/client — that file only exists
+ * during local dev and is in .gitignore.
+ */
+
+import { readFileSync, existsSync } from "fs";
 import { join } from "path";
+
+const CONTENT_DIR = join(process.cwd(), "content");
+
+function readJson<T>(path: string): T | null {
+  try {
+    if (!existsSync(path)) return null;
+    return JSON.parse(readFileSync(path, "utf-8"));
+  } catch {
+    return null;
+  }
+}
 
 /**
  * Read homepage data from content/homepage/index.json
- * Works in both CMS mode and static build mode.
  */
 export async function getHomepageData() {
-  try {
-    // Try reading from Tina GraphQL first (dev mode with CMS)
-    const client = await import("../../tina/__generated__/client").then(
-      (m) => m.default
-    );
-    const result = await client.queries.homepage({
-      relativePath: "index.json",
-    });
-    return result.data.homepage;
-  } catch {
-    // Fallback: read JSON file directly (build mode without CMS server)
-    try {
-      const filePath = join(
-        process.cwd(),
-        "content",
-        "homepage",
-        "index.json"
-      );
-      const raw = readFileSync(filePath, "utf-8");
-      return JSON.parse(raw);
-    } catch {
-      return null;
-    }
-  }
+  return readJson<any>(join(CONTENT_DIR, "homepage", "index.json"));
 }
 
 /**
- * Read all blog posts from content/blog/ directory.
+ * Read all blog posts — not used in production build yet,
+ * blog still reads from src/data/blog.ts
  */
 export async function getBlogPosts() {
-  try {
-    const client = await import("../../tina/__generated__/client").then(
-      (m) => m.default
-    );
-    const result = await client.queries.blogConnection({
-      sort: "date",
-      last: 50,
-    });
-    return result.data.blogConnection.edges?.map((e: any) => e?.node) ?? [];
-  } catch {
-    return null;
-  }
+  return null;
 }
 
 /**
- * Read a single blog post by slug.
+ * Read a single blog post — not used in production build yet
  */
 export async function getBlogPost(slug: string) {
-  try {
-    const client = await import("../../tina/__generated__/client").then(
-      (m) => m.default
-    );
-    const result = await client.queries.blog({
-      relativePath: `${slug}.mdx`,
-    });
-    return result.data.blog;
-  } catch {
-    return null;
-  }
+  return null;
 }
