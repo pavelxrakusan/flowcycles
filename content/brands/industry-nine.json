@@ -1,6 +1,6 @@
 {
-  "slug": "industry-nine",
   "name": "Industry Nine",
+  "slug": "industry-nine",
   "tagline": "Hand Made in Asheville, NC.",
   "description": "Ručně vyráběná kola a náboje z Asheville. Industry Nine je synonymem pro precizní engineering a legendární engagement nábojů Hydra.",
   "story": "Industry Nine vyrábí každé kolo a každý náboj ručně v Asheville. Jejich systém Hydra s 690 body záběru je nejrychlejší na trhu.",
@@ -12,5 +12,6 @@
   ],
   "origin": "Asheville, NC, USA",
   "website": "https://industrynine.com",
-  "accentColor": "#2196f3"
+  "accentColor": "#2196f3",
+  "logo": "/assets/Industry-9-logo_7e206131-56fb-455f-879c-71b1077070eb_jpg.webp"
 }
