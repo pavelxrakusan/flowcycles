@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { blogPosts, blogCategories, getBlogPostBySlug } from "@/data/blog";
+import { ShareButton } from "@/components/ShareButton";
 
 export function generateStaticParams() {
   return blogPosts.map((post) => ({ slug: post.slug }));
@@ -18,6 +19,18 @@ export function generateMetadata({
     return {
       title: `${post.title} | Blog | Flowcycles`,
       description: post.excerpt,
+      openGraph: {
+        title: post.title,
+        description: post.excerpt,
+        images: [post.image],
+        type: "article",
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: post.title,
+        description: post.excerpt,
+        images: [post.image],
+      },
     };
   });
 }
@@ -123,12 +136,15 @@ export default async function BlogPostPage({
             </svg>
             Zpět na blog
           </Link>
-          <Link
-            href="/kontakt"
-            className="inline-flex items-center px-6 py-3 bg-accent text-background text-sm font-semibold uppercase tracking-[0.12em] hover:bg-accent-hover transition-colors"
-          >
-            Domluvit návštěvu
-          </Link>
+          <div className="flex items-center gap-4">
+            <ShareButton title={post.title} text={post.excerpt} />
+            <Link
+              href="/kontakt"
+              className="inline-flex items-center px-6 py-3 bg-accent text-background text-sm font-semibold uppercase tracking-[0.12em] hover:bg-accent-hover transition-colors"
+            >
+              Domluvit návštěvu
+            </Link>
+          </div>
         </div>
       </section>
     </>

@@ -10,6 +10,7 @@ import { VideoPlayer } from "@/components/VideoPlayer";
 import { ImageGallery } from "@/components/ImageGallery";
 import { ScrollReveal } from "@/components/ScrollReveal";
 import { GeometryDiagram } from "@/components/GeometryDiagram";
+import { ShareButton } from "@/components/ShareButton";
 
 interface Props {
   bike: Bike;
@@ -542,6 +543,7 @@ function CtaFooter({ bike }: Props) {
             >
               Domluvit prohlídku
             </Link>
+            <ShareButton title={`${bike.name} | Flowcycles`} text={bike.tagline} />
             <Link
               href="/kola"
               className="inline-flex items-center justify-center px-10 py-4 border border-foreground/30 text-foreground text-sm font-semibold uppercase tracking-[0.15em] hover:border-foreground hover:bg-foreground/5 transition-colors"

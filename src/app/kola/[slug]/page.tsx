@@ -20,6 +20,15 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: `${bike.name} | Pivot | Flowcycles`,
     description: bike.description,
     openGraph: {
+      title: `${bike.name} | Pivot | Flowcycles`,
+      description: bike.description,
+      images: [bike.heroImage],
+      type: "article",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${bike.name} | Pivot | Flowcycles`,
+      description: bike.description,
       images: [bike.heroImage],
     },
   };

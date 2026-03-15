@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { ScrollReveal } from "@/components/ScrollReveal";
 import { getAllBrands } from "@/lib/content";
@@ -30,9 +31,19 @@ export default async function KomponentyPage() {
             <div className="grid lg:grid-cols-2 gap-16 items-start">
               <ScrollReveal>
                 <div className="relative aspect-[4/3] flex items-center justify-center shine-effect" style={{ background: `linear-gradient(135deg, ${brand.accentColor}40, ${brand.accentColor}10)` }}>
-                  <span className="text-5xl md:text-6xl font-bold uppercase tracking-tighter opacity-90" style={{ color: brand.accentColor }}>
-                    {brand.name}
-                  </span>
+                  {brand.logo ? (
+                    <Image
+                      src={brand.logo}
+                      alt={brand.name}
+                      width={280}
+                      height={140}
+                      className="object-contain max-h-[50%] w-auto"
+                    />
+                  ) : (
+                    <span className="text-5xl md:text-6xl font-bold uppercase tracking-tighter opacity-90" style={{ color: brand.accentColor }}>
+                      {brand.name}
+                    </span>
+                  )}
                 </div>
               </ScrollReveal>
               <ScrollReveal delay={0.1}>
