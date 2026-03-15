@@ -1,0 +1,85 @@
+{
+  "slug": "shuttle-slam",
+  "name": "Shuttle SL/AM",
+  "category": "e-bike",
+  "tagline": "Lehký motor, větší zdvih",
+  "description": "Shuttle SL/AM kombinuje lehký Bosch Performance SX motor (55Nm, 600W) s 150mm zdvihu vzadu a 160mm vpředu. Pod 18 kg — nejlehčí all-mountain e-bike s plným výkonem. 400Wh baterie s možností rozšíření o PowerMore 250Wh.",
+  "travelRear": "150mm",
+  "travelFront": "160mm",
+  "wheelSize": "29\"",
+  "heroImage": "/assets/bikes/shuttle-slam.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/shuttle-slam/beauty-01.webp",
+    "/assets/bikes/gallery/shuttle-slam/action-01.webp",
+    "/assets/bikes/gallery/shuttle-slam/beauty-02.webp",
+    "/assets/bikes/gallery/shuttle-slam/action-02.webp",
+    "/assets/bikes/gallery/shuttle-slam/beauty-03.webp",
+    "/assets/bikes/gallery/shuttle-slam/action-03.webp"
+  ],
+  "colors": [
+    { "name": "Brownstone", "hex": "#b2a9a0", "hexSecondary": "#8c867e", "image": "/assets/bikes/colors/shuttle-slam-bronze.png" },
+    { "name": "Gloss Grey", "hex": "#3a4550", "image": "/assets/bikes/colors/shuttle-slam-grey-hires.png" }
+  ],
+  "features": [
+    "Bosch SX 55Nm motor",
+    "Pod 18 kg",
+    "400Wh + 250Wh extender",
+    "150mm dw-link",
+    "FOX Live Valve Neo",
+    "Flip chip geometrie"
+  ],
+  "highlights": [
+    {
+      "title": "Nejlehčí AM e-bike",
+      "description": "Pod 18 kg s plným all-mountain zdvihem. Bosch SX motor je lehký a kompaktní — kolo se chová téměř jako klasické trail kolo."
+    },
+    {
+      "title": "Bosch Performance SX",
+      "description": "55Nm a 600W peak v kompaktním balení. 400Wh baterie s možností rozšíření o PowerMore 250Wh extender. Dostatečný výkon pro celý den v horách."
+    }
+  ],
+  "productDetails": [
+    "Karbonový rám pod 18 kg",
+    "Bosch Performance Line SX (55Nm, 600W peak)",
+    "400Wh integrovaná baterie",
+    "PowerMore 250Wh range extender kompatibilní",
+    "150mm dw-link odpružení",
+    "160mm FOX 36 vidlice",
+    "FOX Live Valve Neo (Pro/Team)",
+    "Flip chip geometrie",
+    "XS s MX koly",
+    "Interní vedení lanek"
+  ],
+  "geometry": [
+    { "label": "Head Tube Angle", "xs": "64.5°", "sm": "64.5°", "md": "64.5°", "lg": "64.5°", "xl": "64.5°" },
+    { "label": "Seat Tube Angle", "xs": "76.9°", "sm": "76.9°", "md": "76.9°", "lg": "76.9°", "xl": "76.9°" },
+    { "label": "Chainstay", "xs": "44.4", "sm": "44.4", "md": "44.4", "lg": "44.4", "xl": "44.4" },
+    { "label": "BB Height", "xs": "35.0", "sm": "35.0", "md": "35.0", "lg": "35.0", "xl": "35.0" },
+    { "label": "Wheelbase", "xs": "118.8", "sm": "121.8", "md": "124.7", "lg": "126.6", "xl": "129.1" },
+    { "label": "Seat Tube (C-T)", "xs": "34.3", "sm": "37.8", "md": "39.9", "lg": "43.2", "xl": "47.0" }
+  ],
+  "sizeChart": [
+    { "size": "XS", "minHeight": "148 cm", "maxHeight": "163 cm" },
+    { "size": "S", "minHeight": "163 cm", "maxHeight": "175 cm" },
+    { "size": "M", "minHeight": "173 cm", "maxHeight": "185 cm" },
+    { "size": "L", "minHeight": "183 cm", "maxHeight": "195 cm" },
+    { "size": "XL", "minHeight": "190 cm", "maxHeight": "203 cm" }
+  ],
+  "builds": [],
+  "faqs": [],
+  "videos": [
+    { "id": "RJTXj1sBqDk", "title": "Shuttle SL/AM — Vše co potřebujete vědět" }
+  ],
+  "reviews": [
+    {
+      "quote": "Univerzál... téměř stejně lehký jako Shuttle SL.",
+      "author": "Cy Whitling",
+      "publication": "Freehub"
+    },
+    {
+      "quote": "Poddajný a responzivní, dobrý využitelný zdvih, velmi komfortní.",
+      "author": "Francis Cebedo",
+      "publication": "E-MTB Review"
+    }
+  ]
+}

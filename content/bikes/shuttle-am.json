@@ -1,0 +1,84 @@
+{
+  "slug": "shuttle-am",
+  "name": "Shuttle AM",
+  "category": "e-bike",
+  "tagline": "All-mountain bez hranic",
+  "description": "All-mountain e-bike s ultra-lehkým hollow core karbónovým rámem, motorem Bosch Performance CX (100Nm, 750W) a 800Wh baterií. 150mm zdvihu vzadu, 160mm vpředu na 29\" kolech. FOX Live Valve Neo v Team sestavě.",
+  "travelRear": "150mm",
+  "travelFront": "160mm",
+  "wheelSize": "29\"",
+  "heroImage": "/assets/bikes/shuttle-am-hires.webp",
+  "galleryImages": [
+    "/assets/bikes/gallery/shuttle-am/action-01.jpg",
+    "/assets/bikes/gallery/shuttle-am/action-02.jpg",
+    "/assets/bikes/gallery/shuttle-am/action-03.jpg",
+    "/assets/bikes/gallery/shuttle-am/action-04.jpg",
+    "/assets/bikes/gallery/shuttle-am/beauty-01.jpg",
+    "/assets/bikes/gallery/shuttle-am/beauty-02.jpg"
+  ],
+  "colors": [
+    { "name": "Badlands Brown", "hex": "#8b7666", "hexSecondary": "#000000", "image": "/assets/bikes/colors/shuttle-am-bronze.png" },
+    { "name": "Blue Dark Sky", "hex": "#5784A7", "hexSecondary": "#2b4e6e", "image": "/assets/bikes/colors/shuttle-am-blue.png" }
+  ],
+  "features": [
+    "Bosch CX 100Nm motor",
+    "800Wh + 250Wh extender",
+    "Hollow Core karbon",
+    "150mm dw-link",
+    "FOX Live Valve Neo (Team)",
+    "eMTB+ adaptivní asistence"
+  ],
+  "highlights": [
+    {
+      "title": "Ultra-lehký e-bike",
+      "description": "Hollow Core karbonový rám drží hmotnost na minimu. Shuttle AM se chová jako klasické trail kolo — motor jen přidává kopce."
+    },
+    {
+      "title": "Bosch Gen 5 CX",
+      "description": "100Nm točivého momentu a 750W špičkového výkonu. 800Wh baterie s možností rozšíření o PowerMore 250Wh extender pro celodenní jízdu."
+    },
+    {
+      "title": "FOX Live Valve Neo",
+      "description": "Team sestava přináší adaptivní odpružení, které čte terén 1000× za sekundu a automaticky upravuje tlumení."
+    }
+  ],
+  "productDetails": [
+    "Ultra-lehký Hollow Core karbonový rám",
+    "Bosch Gen 5 Performance CX/CX-R motor (100Nm, 750W peak)",
+    "800Wh baterie + PowerMore 250Wh extender kompatibilní",
+    "150mm progresivní dw-link odpružení",
+    "160mm vidlice",
+    "Flip chip v horním uložení",
+    "MX kompatibilní",
+    "eMTB+ adaptivní asistence",
+    "FOX Live Valve Neo (Team)"
+  ],
+  "geometry": [
+    { "label": "Seat Tube (C-T)", "sm": "37.8", "md": "39.9", "lg": "43.2", "xl": "47.0" },
+    { "label": "Head Tube Angle", "sm": "64.5°", "md": "64.5°", "lg": "64.5°", "xl": "64.5°" },
+    { "label": "Seat Tube Angle", "sm": "76.9°", "md": "76.9°", "lg": "76.9°", "xl": "76.9°" },
+    { "label": "Chainstay", "sm": "44.4", "md": "44.4", "lg": "44.4", "xl": "44.4" },
+    { "label": "BB Height", "sm": "35.0", "md": "35.0", "lg": "35.0", "xl": "35.0" },
+    { "label": "Wheelbase", "sm": "121.6", "md": "125.0", "lg": "126.9", "xl": "129.4" },
+    { "label": "Stack", "sm": "62.9", "md": "63.8", "lg": "64.7", "xl": "65.6" },
+    { "label": "Reach", "sm": "43.5", "md": "46.5", "lg": "48.0", "xl": "50.0" }
+  ],
+  "sizeChart": [
+    { "size": "S", "minHeight": "163 cm", "maxHeight": "175 cm" },
+    { "size": "M", "minHeight": "173 cm", "maxHeight": "185 cm" },
+    { "size": "L", "minHeight": "183 cm", "maxHeight": "195 cm" },
+    { "size": "XL", "minHeight": "190 cm", "maxHeight": "203 cm" }
+  ],
+  "builds": [],
+  "faqs": [],
+  "videos": [
+    { "id": "LiZxcSHqO7w", "title": "Shuttle AM — Vše co potřebujete vědět" }
+  ],
+  "reviews": [
+    {
+      "quote": "Tohle kolo jede skvěle do kopce i z kopce. Je rychlé, svižné a nečekaně lehké.",
+      "author": "Cy Whitling",
+      "publication": "Freehub"
+    }
+  ]
+}

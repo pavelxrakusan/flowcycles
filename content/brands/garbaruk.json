@@ -1,0 +1,17 @@
+{
+  "slug": "garbaruk",
+  "name": "Garbaruk",
+  "tagline": "Built in Poland. Ridden everywhere.",
+  "description": "Ultra-lehké komponenty. CNC kazety, převodníky, kliky a kladky v anodizovaných barvách na míru.",
+  "story": "Bratři Garbaruk založili značku v polovině 2000s jako malou karbonovou dílnu. Dnes vyrábějí v Polsku u Krakova.",
+  "products": [
+    "Kazety (11, 12, 13 rychlostí)",
+    "Převodníky — nejlehčí 8-bolt MTB",
+    "Kliky — CNC hliník, od 400g",
+    "Kladky a cage — custom barvy",
+    "Kola a náboje (od 1170g)"
+  ],
+  "origin": "Krakov, Polsko",
+  "website": "https://www.garbaruk.com",
+  "accentColor": "#ff9800"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "phoenix",
+  "name": "Phoenix",
+  "category": "gravity",
+  "tagline": "Na rychlost jsme si dali čas",
+  "description": "Phoenix je downhill speciál nové generace. 210mm zdvihu vzadu, 200mm vpředu a MX kola. Nová platforma DW6 přináší revoluci v DH odpružení — mid-high pivot s 6-bar linkage. Vítěz závodů Světového poháru.",
+  "travelRear": "210mm",
+  "travelFront": "200mm",
+  "wheelSize": "MX",
+  "heroImage": "/assets/bikes/phoenix.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/phoenix/phoenix-action-01.webp",
+    "/assets/bikes/gallery/phoenix/phoenix-action-02.webp",
+    "/assets/bikes/gallery/phoenix/phoenix-action-03.webp",
+    "/assets/bikes/gallery/phoenix/phoenix-action-04.webp",
+    "/assets/bikes/gallery/phoenix/phoenix-beauty.webp",
+    "/assets/bikes/gallery/phoenix/phoenix-detail-01.webp",
+    "/assets/bikes/gallery/phoenix/phoenix-detail-02.webp"
+  ],
+  "colors": [
+    { "name": "Electric Red", "hex": "#b70106", "hexSecondary": "#000000", "image": "/assets/bikes/gallery/phoenix/phoenix-electric-red.webp" },
+    { "name": "White Cobalt Blue", "hex": "#3368b0", "hexSecondary": "#a7875b", "image": "/assets/bikes/gallery/phoenix/phoenix-white-cobalt.webp" },
+    { "name": "Black Gold", "hex": "#a7875b", "hexSecondary": "#4f4421", "image": "/assets/bikes/gallery/phoenix/phoenix-black-gold.webp" },
+    { "name": "Red Mint", "hex": "#d1212a", "hexSecondary": "#b0c2bc", "image": "/assets/bikes/gallery/phoenix/phoenix-red-mint.webp" }
+  ],
+  "features": [
+    "DW6 platforma — 6-bar linkage",
+    "210mm dw-link™ odpružení",
+    "SRAM XX DH Transmission",
+    "RockShox BoXXer Ultimate",
+    "Dual-chain drive",
+    "Flip Chip geometrie + progresivita"
+  ],
+  "highlights": [
+    {
+      "title": "World Cup šampión",
+      "description": "Vítěz závodů Světového poháru v DH. Stabilní při vysoké rychlosti, břitký v zatáčkách — přesně tam, kde rozhodují desetiny."
+    },
+    {
+      "title": "DW6 — nová éra",
+      "description": "6-bar linkage s mid-high pivotem. Lepší trakce přes kořeny a kameny, menší brzdný odpor, plynulejší chod. Revoluce v DH odpružení."
+    },
+    {
+      "title": "SRAM Transmission",
+      "description": "Bezdrátové řazení XX DH s těsnými odstupy mezi převody. Přesné, spolehlivé a bez kabelů."
+    }
+  ],
+  "productDetails": [
+    "DW6 odpružení (6-bar linkage, mid-high pivot)",
+    "210mm zdvihu vzadu",
+    "200mm zdvihu vpředu",
+    "MX kola (29\" přední / 27.5\" zadní)",
+    "SRAM XX DH Transmission (bezdrátové řazení)",
+    "RockShox BoXXer Ultimate vidlice",
+    "RockShox Vivid Ultimate DH tlumič",
+    "Dual-chain drive kompatibilita",
+    "Pivot Flip Chip (geometrie)",
+    "Suspension Flip Chip (progresivita)",
+    "Reach adjust hlavové složení",
+    "Karbonový rám"
+  ],
+  "geometry": [
+    { "label": "Head Tube Angle", "sm": "62.5°", "md": "62.5°", "lg": "62.5°", "xl": "62.5°" },
+    { "label": "Seat Tube Angle", "sm": "76.0°", "md": "76.0°", "lg": "76.0°", "xl": "76.0°" },
+    { "label": "Reach", "sm": "42.0", "md": "44.5", "lg": "47.5", "xl": "50.5" },
+    { "label": "Chainstay", "sm": "44.5", "md": "44.5", "lg": "44.5", "xl": "44.5" },
+    { "label": "Wheelbase", "sm": "125.0", "md": "128.0", "lg": "131.0", "xl": "134.0" },
+    { "label": "Stack", "sm": "61.0", "md": "62.5", "lg": "64.0", "xl": "66.0" },
+    { "label": "BB Height", "sm": "35.5", "md": "35.5", "lg": "35.5", "xl": "35.5" }
+  ],
+  "sizeChart": [
+    { "size": "S", "minHeight": "163 cm", "maxHeight": "175 cm" },
+    { "size": "M", "minHeight": "173 cm", "maxHeight": "183 cm" },
+    { "size": "L", "minHeight": "180 cm", "maxHeight": "193 cm" },
+    { "size": "XL", "minHeight": "190 cm", "maxHeight": "203 cm" }
+  ],
+  "builds": [
+    {
+      "name": "Phoenix SRAM XX DH",
+      "components": [
+        { "label": "Vidlice", "value": "RockShox BoXXer Ultimate 200mm" },
+        { "label": "Tlumič", "value": "RockShox Vivid Ultimate DH" },
+        { "label": "Řazení", "value": "SRAM XX DH Transmission (bezdrátové)" },
+        { "label": "Brzdy", "value": "SRAM Code Ultimate Stealth 220/200mm" },
+        { "label": "Kola", "value": "Industry Nine DH Hydra" },
+        { "label": "Pneumatiky", "value": "Maxxis Assegai DH / Minion DHR II DH" },
+        { "label": "Řídítka", "value": "Chromag BZA 35" },
+        { "label": "Představec", "value": "Chromag HiFi 35" }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Co je DW6 a čím se liší od dw-link?",
+      "answer": "DW6 je evoluce dw-link platformy s 6-bar linkage designem a mid-high pivotem. Přináší lepší trakci, menší brzdný odpor a plynulejší chod v nejnáročnějších podmínkách DH závodů."
+    },
+    {
+      "question": "Jaké kola Phoenix používá?",
+      "answer": "Phoenix používá MX setup — 29\" přední a 27.5\" zadní kolo. Tato kombinace přináší plynulost a rychlost 29\" kola vpředu s agilitou 27.5\" vzadu."
+    },
+    {
+      "question": "Je Phoenix vhodný pro bike park?",
+      "answer": "Absolutně. Phoenix je navržený pro nejnáročnější DH tratě Světového poháru. V bike parku se bude cítit jako doma."
+    }
+  ],
+  "videos": [
+    { "id": "jvJHmd9eS8E", "title": "Phoenix — The Fly By" }
+  ],
+  "reviews": [
+    {
+      "quote": "Toto kolo nevypadá jen extrémně elegantně, ale je i nezastavitelné na trati. Jasné vítězství v našem srovnávacím testu!",
+      "author": "Peter Walker, Simon Kohler",
+      "publication": "Enduro Mountainbike Magazine"
+    },
+    {
+      "quote": "Pivot si dal za cíl vytvořit závodněji zaměřené kolo, které bude držet stopu v každé části tratě — a přesně to se jim povedlo.",
+      "author": "Jonathon Simonetti",
+      "publication": "Vital MTB"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "shuttle-sl",
+  "name": "Shuttle SL",
+  "category": "e-bike",
+  "tagline": "Lehký e-bike, velký zážitek",
+  "description": "Nejlehčí e-bike v nabídce Pivot. 132mm zdvihu, Fazua Ride 60 motor (60Nm, 450W) a plný karbonový Hollow Core rám. Od 16.5 kg — hranice mezi e-bikem a klasickým kolem se stírá.",
+  "travelRear": "132mm",
+  "travelFront": "140–150mm",
+  "wheelSize": "29\"",
+  "heroImage": "/assets/bikes/shuttle-sl-hires.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/shuttle-sl/action-01.webp",
+    "/assets/bikes/gallery/shuttle-sl/action-02.webp",
+    "/assets/bikes/gallery/shuttle-sl/action-03.webp",
+    "/assets/bikes/gallery/shuttle-sl/beauty-01.webp",
+    "/assets/bikes/gallery/shuttle-sl/beauty-02.webp"
+  ],
+  "colors": [
+    { "name": "Black Lime", "hex": "#303030", "hexSecondary": "#4e4d54", "image": "/assets/bikes/colors/shuttle-sl-black.png" },
+    { "name": "Desert Sage Green", "hex": "#7c858c", "image": "/assets/bikes/colors/shuttle-sl-sage.png" },
+    { "name": "Aspen White", "hex": "#e8e8e8", "image": "/assets/bikes/colors/shuttle-sl-white.png" }
+  ],
+  "features": [
+    "Fazua Ride 60 motor",
+    "Od 16.5 kg",
+    "132mm dw-link",
+    "Nulový odpor bez asistence",
+    "FOX 36/Float X",
+    "Hollow Core karbon"
+  ],
+  "highlights": [
+    {
+      "title": "Téměř klasické kolo",
+      "description": "16.5 kg a nulový odpor při šlapání bez asistence. Shuttle SL je tak blízko klasickému trail kolu, jak jen e-bike může být."
+    },
+    {
+      "title": "Fazua Ride 60",
+      "description": "Tichý, hladký a efektivní motor s přirozeným pocitem jízdy. 60Nm stačí na strmé stoupání, 450W peak zvládne i krátké sprinty."
+    }
+  ],
+  "productDetails": [
+    "Hollow Core karbonový rám",
+    "Fazua Ride 60 motor (60Nm, 450W peak)",
+    "Integrovaná baterie",
+    "132mm dw-link odpružení",
+    "150mm FOX 36 vidlice",
+    "Trunnion-mount Float X tlumič",
+    "Velikostně specifické řetězové vzpěry",
+    "Nulový odpor při šlapání bez asistence",
+    "3 režimy asistence + Boost",
+    "Od 16.5 kg"
+  ],
+  "geometry": [
+    { "label": "Seat Tube (C-T)", "sm": "36.8", "md": "39.4", "lg": "43.2", "xl": "47.0" },
+    { "label": "Head Tube Angle", "sm": "65.5°", "md": "65.5°", "lg": "65.5°", "xl": "65.4°" },
+    { "label": "Seat Tube Angle", "sm": "76.5°", "md": "76.5°", "lg": "76.5°", "xl": "77.2°" },
+    { "label": "Chainstay", "sm": "43.0", "md": "43.0", "lg": "43.2", "xl": "43.6" },
+    { "label": "BB Height", "sm": "35.2", "md": "35.2", "lg": "35.2", "xl": "35.2" },
+    { "label": "Wheelbase", "sm": "118.5", "md": "122.2", "lg": "123.9", "xl": "127.1" },
+    { "label": "Stack", "sm": "60.7", "md": "62.2", "lg": "62.6", "xl": "63.8" },
+    { "label": "Reach", "sm": "43.9", "md": "46.9", "lg": "48.2", "xl": "50.4" }
+  ],
+  "sizeChart": [
+    { "size": "S", "minHeight": "163 cm", "maxHeight": "175 cm" },
+    { "size": "M", "minHeight": "173 cm", "maxHeight": "185 cm" },
+    { "size": "L", "minHeight": "183 cm", "maxHeight": "195 cm" },
+    { "size": "XL", "minHeight": "190 cm", "maxHeight": "203 cm" }
+  ],
+  "builds": [],
+  "faqs": [],
+  "videos": [
+    { "id": "vaHHWTlVjvM", "title": "Shuttle SL — Film" }
+  ],
+  "reviews": [
+    {
+      "quote": "Málokteré kolo, které jsme testovali, akcelerovalo, zatáčelo nebo se pohybovalo tak rychle. Hravé v zatáčkách, sen pro skoky.",
+      "author": "The Loam Wolf",
+      "publication": "The Loam Wolf"
+    }
+  ]
+}

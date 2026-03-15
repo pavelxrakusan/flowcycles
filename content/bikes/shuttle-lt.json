@@ -1,0 +1,82 @@
+{
+  "slug": "shuttle-lt",
+  "name": "Shuttle LT",
+  "category": "e-bike",
+  "tagline": "Víc trailů. Víc zábavy.",
+  "description": "Prémiový e-bike s 162mm zdvihu, Bosch CX-R motorem (100Nm, 750W) a 800Wh baterií. Fox Podium invertovaná vidlice a patentovaný systém nastavení úhlu sedla Slacky McSteepTube™.",
+  "travelRear": "162mm",
+  "travelFront": "170mm",
+  "wheelSize": "MX",
+  "heroImage": "/assets/bikes/shuttle-lt.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/shuttle-lt/action-01.webp",
+    "/assets/bikes/gallery/shuttle-lt/beauty-01.webp",
+    "/assets/bikes/gallery/shuttle-lt/action-02.webp",
+    "/assets/bikes/gallery/shuttle-lt/beauty-02.webp",
+    "/assets/bikes/gallery/shuttle-lt/action-03.webp",
+    "/assets/bikes/gallery/shuttle-lt/action-04.webp",
+    "/assets/bikes/gallery/shuttle-lt/action-05.webp"
+  ],
+  "colors": [
+    { "name": "Black Royal Purple", "hex": "#4a026c", "hexSecondary": "#0a0407", "image": "/assets/bikes/colors/shuttle-lt-purple.png" },
+    { "name": "Stone Cold White", "hex": "#0a0a0a", "hexSecondary": "#424242", "image": "/assets/bikes/colors/shuttle-lt-stone-cold.png" }
+  ],
+  "features": [
+    "Bosch CX-R 100Nm motor",
+    "800Wh baterie",
+    "Fox Podium invertovaná vidlice",
+    "Swinger™ nastavitelné patky",
+    "162mm dw-link™",
+    "Karbonový rám"
+  ],
+  "highlights": [
+    {
+      "title": "Bosch CX-R — nová úroveň výkonu",
+      "description": "100Nm točivého momentu a 750W špičkového výkonu. 800Wh baterie pro celodenní jízdu v horách."
+    },
+    {
+      "title": "Závodní e-bike",
+      "description": "Vypadá rychle i když stojí. Postavený pro závodníky a ty, kdo chtějí jezdit jako závodníci."
+    }
+  ],
+  "productDetails": [
+    "162mm dw-link™ odpružení",
+    "Bosch CX-R motor (100Nm, 750W peak)",
+    "800Wh odnímatelná baterie (kompatibilní s 600Wh)",
+    "Fox Podium invertovaná vidlice 170mm",
+    "Slacky McSteepTube™ nastavení úhlu sedla (78°/76.5°)",
+    "Swinger™ nastavitelné patky (8mm)",
+    "Flip-chip pro ladění progresivity",
+    "Plovoucí uchycení baterie",
+    "Karbonový rám"
+  ],
+  "geometry": [
+    { "label": "Head Tube Angle", "sm": "63.5°", "md": "63.5°", "lg": "63.5°", "xl": "63.5°" },
+    { "label": "Seat Tube Angle", "sm": "78.0°", "md": "78.0°", "lg": "78.0°", "xl": "78.0°" },
+    { "label": "Reach", "sm": "44.0", "md": "47.0", "lg": "50.0", "xl": "53.0" },
+    { "label": "Wheelbase", "sm": "126.0", "md": "129.0", "lg": "132.0", "xl": "135.0" }
+  ],
+  "sizeChart": [
+    { "size": "S", "minHeight": "163 cm", "maxHeight": "175 cm" },
+    { "size": "M", "minHeight": "173 cm", "maxHeight": "185 cm" },
+    { "size": "L", "minHeight": "183 cm", "maxHeight": "195 cm" },
+    { "size": "XL", "minHeight": "190 cm", "maxHeight": "203 cm" }
+  ],
+  "builds": [],
+  "faqs": [
+    {
+      "question": "Jaký je dojezd baterie?",
+      "answer": "S 800Wh baterií v režimu Tour typicky 3–5 hodin jízdy v závislosti na terénu a nastavení asistence. Kompatibilní i s lehčí 600Wh baterií."
+    }
+  ],
+  "videos": [
+    { "id": "jIomm_hQHJk", "title": "Shuttle LT — Vše co potřebujete vědět" }
+  ],
+  "reviews": [
+    {
+      "quote": "Postavený jako mullet vypadá Shuttle LT rychle i když stojí — nepochybně: postavený pro závodníky.",
+      "author": "Dario DiGiulio",
+      "publication": "Pinkbike"
+    }
+  ]
+}

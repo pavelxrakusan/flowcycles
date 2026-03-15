@@ -1,0 +1,92 @@
+{
+  "slug": "vault",
+  "name": "Vault",
+  "category": "gravel",
+  "tagline": "Kde silnice končí, Vault začíná",
+  "description": "Ultra-lehký hollow core karbonový gravel s patentovaným systémem ISO FLEX pro komfort, Toolshed™ úložištěm a clearance pro 700×50c pláště. Editor's Choice — Best Gravel Bike.",
+  "travelRear": "Rigid",
+  "travelFront": "Rigid",
+  "wheelSize": "700c",
+  "heroImage": "/assets/bikes/vault.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/vault/beauty-01.webp",
+    "/assets/bikes/gallery/vault/action-01.webp",
+    "/assets/bikes/gallery/vault/action-02.webp",
+    "/assets/bikes/gallery/vault/beauty-02.webp",
+    "/assets/bikes/gallery/vault/action-03.webp",
+    "/assets/bikes/gallery/vault/beauty-03.webp",
+    "/assets/bikes/gallery/vault/action-04.webp"
+  ],
+  "colors": [
+    { "name": "Copper Comet", "hex": "#715241", "hexSecondary": "#4f3e34", "image": "/assets/bikes/colors/vault-copper.png" },
+    { "name": "Stealth", "hex": "#303030", "hexSecondary": "#4e4d54", "image": "/assets/bikes/colors/vault-stealth.png" },
+    { "name": "Mossy Forest", "hex": "#c5e3b4", "hexSecondary": "#5a6044", "image": "/assets/bikes/colors/vault-mossy.png" }
+  ],
+  "features": [
+    "Hollow Core karbonový rám",
+    "ISO FLEX systém komfortu",
+    "Toolshed™ úložiště",
+    "700×50c clearance",
+    "Dropper kompatibilní",
+    "SRAM Transmission ready"
+  ],
+  "highlights": [
+    {
+      "title": "Editor's Choice — Best Gravel Bike",
+      "description": "Bike Rumor: \"Dokonalá rovnováha jako all-around gravel kolo.\" Vault přináší závodní výkon s komfortem pro celodenní jízdu."
+    },
+    {
+      "title": "ISO FLEX komfort",
+      "description": "Patentovaný systém izolace vibrací. Neuvěřitelně hladká jízda bez ztráty tuhosti a přenosu výkonu."
+    }
+  ],
+  "productDetails": [
+    "Ultra-lehký hollow core karbonový rám",
+    "Toolshed™ úložiště v rámu",
+    "Clearance pro 700×50c pláště",
+    "Patentovaný ISO FLEX systém komfortu",
+    "Moderní gravel geometrie",
+    "Karbonová vidlice s compliance",
+    "Kompatibilní s 1x i 2x převodem",
+    "UDH a SRAM Transmission kompatibilní",
+    "Plně integrované vedení lanek",
+    "Kompatibilní s dropper postem"
+  ],
+  "geometry": [
+    { "label": "Head Tube Angle", "sm": "70.4°", "md": "71.0°", "lg": "71.5°", "xl": "72.0°" },
+    { "label": "Seat Tube Angle", "sm": "74.0°", "md": "74.0°", "lg": "74.0°", "xl": "74.0°" },
+    { "label": "Reach", "sm": "39.0", "md": "40.5", "lg": "42.0", "xl": "43.5" },
+    { "label": "Chainstay", "sm": "42.0", "md": "42.0", "lg": "42.0", "xl": "42.0" },
+    { "label": "Wheelbase", "sm": "103.4", "md": "105.0", "lg": "107.0", "xl": "109.0" },
+    { "label": "Stack", "sm": "56.8", "md": "58.5", "lg": "60.5", "xl": "62.5" }
+  ],
+  "sizeChart": [
+    { "size": "XS", "minHeight": "155 cm", "maxHeight": "165 cm" },
+    { "size": "S", "minHeight": "163 cm", "maxHeight": "175 cm" },
+    { "size": "M", "minHeight": "173 cm", "maxHeight": "183 cm" },
+    { "size": "L", "minHeight": "180 cm", "maxHeight": "193 cm" },
+    { "size": "XL", "minHeight": "190 cm", "maxHeight": "200 cm" }
+  ],
+  "builds": [],
+  "faqs": [
+    {
+      "question": "Jaká je maximální šířka plášťů?",
+      "answer": "Vault pojme pláště až do rozměru 700×50c. Pro většinu gravelových podmínek doporučujeme 700×40c."
+    }
+  ],
+  "videos": [
+    { "id": "yvY3kNVwzO8", "title": "Vault — Toolshed™ systém" }
+  ],
+  "reviews": [
+    {
+      "quote": "Editor's Choice — Best Gravel Bike. Dokonalá rovnováha jako all-around gravel kolo.",
+      "author": "Zach Overholt",
+      "publication": "Bike Rumor"
+    },
+    {
+      "quote": "Přináší skvělý komfort bez kompromisů ve výkonu. Neuvěřitelně hladká jízda pro všechny gravelové jezdce.",
+      "author": "Chris Cocalis",
+      "publication": "Pivot Cycles"
+    }
+  ]
+}

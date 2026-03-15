@@ -1,0 +1,126 @@
+{
+  "slug": "firebird",
+  "name": "Firebird",
+  "category": "enduro",
+  "tagline": "Bez limitu",
+  "description": "Firebird je enduro závoďák s 165mm zdvihu vzadu a 170mm vpředu. FOX Live Valve Neo adaptivní odpružení, nastavitelné patky Swinger™ a geometrie laděná pro Enduro World Series.",
+  "travelRear": "165mm",
+  "travelFront": "170mm",
+  "wheelSize": "29\" / MX",
+  "heroImage": "/assets/bikes/firebird.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/firebird/action-01.webp",
+    "/assets/bikes/gallery/firebird/action-02.webp",
+    "/assets/bikes/gallery/firebird/beauty-01.webp",
+    "/assets/bikes/gallery/firebird/action-03.webp",
+    "/assets/bikes/gallery/firebird/beauty-02.webp",
+    "/assets/bikes/gallery/firebird/action-04.webp",
+    "/assets/bikes/gallery/firebird/action-05.webp"
+  ],
+  "colors": [
+    { "name": "White Gold", "hex": "#ffffff", "hexSecondary": "#4e4d54", "image": "/assets/bikes/colors/firebird-white-gold.png" },
+    { "name": "Yolo", "hex": "#e8e44e", "hexSecondary": "#474222" },
+    { "name": "Purple Galaxy", "hex": "#6d5fa9", "hexSecondary": "#2b243f", "image": "/assets/bikes/colors/firebird-purple-galaxy.png" }
+  ],
+  "features": [
+    "165mm dw-link™ odpružení",
+    "FOX Live Valve Neo",
+    "Swinger™ nastavitelné patky",
+    "Toolshed™ úložiště",
+    "MX kompatibilita",
+    "Karbonový rám"
+  ],
+  "highlights": [
+    {
+      "title": "Závodní DNA",
+      "description": "Testován a vyvíjen s Enduro World Series jezdci. Každý detail optimalizovaný pro závodní tratě."
+    },
+    {
+      "title": "FOX Live Valve Neo",
+      "description": "Adaptivní odpružení, které čte terén v reálném čase. Automaticky se přizpůsobí každé situaci — od hladkého stoupání po kamenité sjezdy."
+    }
+  ],
+  "productDetails": [
+    "165mm dw-link™ odpružení",
+    "FOX Live Valve Neo adaptivní odpružení",
+    "Nastavitelné patky Swinger™ (8mm)",
+    "Flip-chip pro ladění progresivity",
+    "Pivot Toolshed™ úložiště s magnety",
+    "UDH a SRAM Transmission kompatibilní",
+    "MX kompatibilita (29/27.5)",
+    "Super Boost spacing",
+    "Karbonový rám"
+  ],
+  "geometry": [
+    { "label": "Head Tube Angle", "xs": "63.5°", "sm": "63.5°", "md": "63.5°", "lg": "63.5°", "xl": "63.5°" },
+    { "label": "Seat Tube Angle", "xs": "78.0°", "sm": "78.0°", "md": "78.0°", "lg": "78.0°", "xl": "78.0°" },
+    { "label": "Reach", "xs": "41.5", "sm": "44.0", "md": "47.0", "lg": "49.5", "xl": "52.5" },
+    { "label": "Chainstay", "xs": "44.0", "sm": "44.0", "md": "44.0", "lg": "44.0", "xl": "44.0" },
+    { "label": "Wheelbase", "xs": "121.0", "sm": "124.0", "md": "127.0", "lg": "130.0", "xl": "133.0" },
+    { "label": "Stack", "xs": "59.5", "sm": "61.0", "md": "62.5", "lg": "64.0", "xl": "66.0" },
+    { "label": "BB Drop", "xs": "3.0", "sm": "3.0", "md": "3.0", "lg": "3.0", "xl": "3.0" }
+  ],
+  "sizeChart": [
+    { "size": "XS", "minHeight": "155 cm", "maxHeight": "165 cm" },
+    { "size": "S", "minHeight": "163 cm", "maxHeight": "175 cm" },
+    { "size": "M", "minHeight": "173 cm", "maxHeight": "183 cm" },
+    { "size": "L", "minHeight": "180 cm", "maxHeight": "193 cm" },
+    { "size": "XL", "minHeight": "190 cm", "maxHeight": "203 cm" }
+  ],
+  "builds": [
+    {
+      "name": "Firebird Pro XT/XTR",
+      "components": [
+        { "label": "Vidlice", "value": "Fox 38 Factory 170mm" },
+        { "label": "Tlumič", "value": "Fox Float X2 Factory" },
+        { "label": "Řazení", "value": "Shimano XT/XTR 12sp" },
+        { "label": "Brzdy", "value": "Shimano XTR 4-pístové 220/200mm" },
+        { "label": "Kola", "value": "Industry Nine Enduro S 1/1" },
+        { "label": "Pneumatiky", "value": "Maxxis Assegai / Minion DHRII" },
+        { "label": "Sedlovka", "value": "Fox Transfer Factory" }
+      ]
+    },
+    {
+      "name": "Firebird Team XX AXS",
+      "components": [
+        { "label": "Vidlice", "value": "Fox 38 Factory GRIP2 170mm" },
+        { "label": "Tlumič", "value": "Fox Float X2 Factory" },
+        { "label": "Řazení", "value": "SRAM XX Eagle AXS T-Type" },
+        { "label": "Brzdy", "value": "SRAM Code Ultimate Stealth 220/200mm" },
+        { "label": "Kola", "value": "Industry Nine Enduro S Hydra" },
+        { "label": "Pneumatiky", "value": "Maxxis Assegai / Minion DHRII" },
+        { "label": "Sedlovka", "value": "RockShox Reverb AXS" }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Lze Firebird postavit jako mullet (MX)?",
+      "answer": "Ano, Firebird v XS je výhradně MX (29/27.5). Ostatní velikosti lze stavět jako plný 29er nebo MX kombinaci."
+    },
+    {
+      "question": "Co je Swinger™ dropout?",
+      "answer": "Patentovaný systém nastavitelných patek, který umožňuje posunout zadní osu o 8mm. Kratší patka = agilnější kolo, delší = stabilnější."
+    }
+  ],
+  "videos": [
+    { "id": "zYha7rV_DUc", "title": "Firebird — Vše co potřebujete vědět" }
+  ],
+  "reviews": [
+    {
+      "quote": "Rychlý, přímý a agilní — jedno z nejlepších kol ve své třídě.",
+      "author": "Peter Walker",
+      "publication": "Enduro MTB Magazine"
+    },
+    {
+      "quote": "Spíš ohnivý drak pro jezdce, kteří chtějí kolo co šlape, ale sjíždí jako DH speciál.",
+      "author": "Drew Rohde",
+      "publication": "The Loam Wolf"
+    },
+    {
+      "quote": "Svižný, stabilní, nastavitelný a efektivní — přináší hodně na stůl.",
+      "author": "Jason Schroeder",
+      "publication": "Vital MTB"
+    }
+  ]
+}

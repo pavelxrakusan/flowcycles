@@ -1,0 +1,111 @@
+{
+  "slug": "switchblade",
+  "name": "Switchblade",
+  "category": "trail",
+  "tagline": "Jedno kolo. Každý trail.",
+  "description": "Switchblade je definicí moderního trail kola. 142mm zdvihu vzadu, 160mm vpředu a 29\" kola s dw-link odpružením. Slacker hlava, strmější sedlo, delší reach a delší rozvor — moderní trail geometrie bez kompromisů.",
+  "travelRear": "142mm",
+  "travelFront": "160mm",
+  "wheelSize": "29\"",
+  "heroImage": "/assets/bikes/switchblade.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/switchblade/action-01.webp",
+    "/assets/bikes/gallery/switchblade/action-02.webp",
+    "/assets/bikes/gallery/switchblade/action-03.webp",
+    "/assets/bikes/gallery/switchblade/action-04.webp",
+    "/assets/bikes/gallery/switchblade/action-05.webp",
+    "/assets/bikes/gallery/switchblade/action-06.webp",
+    "/assets/bikes/gallery/switchblade/action-07.webp"
+  ],
+  "colors": [
+    { "name": "Stealth Mojave", "hex": "#303030", "hexSecondary": "#4e4d54", "image": "/assets/bikes/colors/switchblade-stealth.png" },
+    { "name": "Blue Neptune", "hex": "#418bd8", "hexSecondary": "#254d75", "image": "/assets/bikes/colors/switchblade-blue.png" },
+    { "name": "Cotton Candy Edition", "hex": "#7d3e98" },
+    { "name": "Laffee Taffee Edition", "hex": "#e44989" },
+    { "name": "Starry Night Edition", "hex": "#154e85" }
+  ],
+  "features": [
+    "142mm dw-link™ odpružení",
+    "FOX Live Valve Neo kompatibilní",
+    "Swinger™ nastavitelné patky",
+    "Toolshed™ integrované úložiště",
+    "Karbonový rám",
+    "Special Edition dekorové sady"
+  ],
+  "highlights": [
+    {
+      "title": "Král trailů",
+      "description": "Od celodenních výletů po agresivní trail riding. Switchblade nepotřebuje kompromisy."
+    },
+    {
+      "title": "dw-link™ v akci",
+      "description": "142mm zdvihu s progresivní kinematikou. Plushový na kořenech, odolný proti proražení na dropech."
+    }
+  ],
+  "productDetails": [
+    "142mm dw-link™ odpružení",
+    "Kompatibilní s FOX Live Valve Neo",
+    "FOX 38 vidlice",
+    "Karbonový rám",
+    "Swinger™ nastavitelné patky (8mm)",
+    "Flip-chip pro ladění progresivity",
+    "Pivot Toolshed™ úložiště",
+    "UDH a SRAM Transmission kompatibilní",
+    "Plně interní vedení"
+  ],
+  "geometry": [
+    { "label": "Head Tube Angle", "sm": "64.5°", "md": "64.5°", "lg": "64.5°", "xl": "64.5°" },
+    { "label": "Seat Tube Angle", "sm": "77.5°", "md": "77.5°", "lg": "77.5°", "xl": "77.5°" },
+    { "label": "Reach", "sm": "43.0", "md": "46.0", "lg": "48.5", "xl": "51.5" },
+    { "label": "Chainstay", "sm": "43.5", "md": "43.5", "lg": "43.5", "xl": "43.5" },
+    { "label": "Wheelbase", "sm": "119.5", "md": "122.5", "lg": "125.5", "xl": "128.5" },
+    { "label": "Stack", "sm": "60.5", "md": "62.0", "lg": "63.5", "xl": "65.5" },
+    { "label": "BB Drop", "sm": "3.5", "md": "3.5", "lg": "3.5", "xl": "3.5" }
+  ],
+  "sizeChart": [
+    { "size": "S", "minHeight": "163 cm", "maxHeight": "173 cm" },
+    { "size": "M", "minHeight": "170 cm", "maxHeight": "180 cm" },
+    { "size": "L", "minHeight": "178 cm", "maxHeight": "190 cm" },
+    { "size": "XL", "minHeight": "188 cm", "maxHeight": "200 cm" }
+  ],
+  "builds": [
+    {
+      "name": "Switchblade Pro XT/XTR",
+      "components": [
+        { "label": "Vidlice", "value": "Fox 38 Factory 160mm" },
+        { "label": "Tlumič", "value": "Fox Float X Factory" },
+        { "label": "Řazení", "value": "Shimano XT/XTR 12sp" },
+        { "label": "Brzdy", "value": "Shimano XTR 4-pístové" },
+        { "label": "Kola", "value": "Industry Nine Trail S Hydra" },
+        { "label": "Pneumatiky", "value": "Maxxis Assegai / Dissector" },
+        { "label": "Sedlovka", "value": "Fox Transfer Factory" }
+      ]
+    },
+    {
+      "name": "Switchblade Team XX AXS",
+      "components": [
+        { "label": "Vidlice", "value": "Fox 38 Factory 160mm" },
+        { "label": "Tlumič", "value": "Fox Float X Factory" },
+        { "label": "Řazení", "value": "SRAM XX Eagle AXS T-Type" },
+        { "label": "Brzdy", "value": "SRAM Code Ultimate" },
+        { "label": "Kola", "value": "Industry Nine Enduro S Hydra" },
+        { "label": "Pneumatiky", "value": "Maxxis Assegai / Dissector" },
+        { "label": "Sedlovka", "value": "RockShox Reverb AXS" }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Jaký je rozdíl oproti předchozí generaci?",
+      "answer": "Nový Switchblade má slacker hlavu, strmější sedlo, delší reach a delší rozvor. Výsledek? Stabilnější sjezd, efektivnější stoupání."
+    },
+    {
+      "question": "Jsou dekorové sady k dispozici samostatně?",
+      "answer": "Special Edition dekorové sady (Cotton Candy, Laffee Taffee, Starry Night, Stranger in The Night) jsou dostupné pouze na kompletních kolech."
+    }
+  ],
+  "videos": [
+    { "id": "W8A_iprI-RM", "title": "Switchblade — Fly By" }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "pine-wheels",
+  "name": "PINE Wheels",
+  "tagline": "České karbonové kola. Bez kompromisů.",
+  "description": "Česká značka karbonových kol pro MTB a CX. Špičková karbonová kola nemusí stát dva měsíční platy.",
+  "story": "PINE Wheels se zrodily po brutálním závodě a diskuzi o tom, jestli karbonová kola musí být tak drahá.",
+  "products": [
+    "PINE 32 — Enduro & Trail",
+    "PINE 27 — Trail",
+    "PINE 24 Ultralite — XC & CX"
+  ],
+  "origin": "Česká republika",
+  "website": "https://www.pine-wheels.com",
+  "accentColor": "#4caf50"
+}

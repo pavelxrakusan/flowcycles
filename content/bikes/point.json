@@ -1,0 +1,70 @@
+{
+  "slug": "point",
+  "name": "Point",
+  "category": "dirt-jump",
+  "tagline": "Čistá zábava",
+  "description": "Point je chromoly dirt jump kolo s ultra-moderní park geometrií. Dlouhý reach, ultra-krátké řetězové vzpěry (385-400mm nastavitelné) a pocit, který dává ocel. Pedáluje, pumpuje, skáče.",
+  "travelRear": "Rigid",
+  "travelFront": "100mm",
+  "wheelSize": "26\"",
+  "heroImage": "/assets/bikes/point.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/point/action-01.webp",
+    "/assets/bikes/gallery/point/action-02.webp",
+    "/assets/bikes/gallery/point/action-03.webp",
+    "/assets/bikes/gallery/point/action-04.webp"
+  ],
+  "colors": [
+    { "name": "Dusk Blue", "hex": "#37748e", "hexSecondary": "#194f66" },
+    { "name": "Mojave", "hex": "#9d9b95", "hexSecondary": "#3e3a36", "image": "/assets/bikes/colors/point-mojave.png" }
+  ],
+  "features": [
+    "4130 chromoly rám",
+    "Nastavitelné patky 385-400mm",
+    "Park geometrie",
+    "Single speed / geared",
+    "26\" kola",
+    "Slopestyle / DJ / Pump"
+  ],
+  "highlights": [
+    {
+      "title": "Pocit oceli",
+      "description": "Double butted chromoly dodává Point pocit, který karbón nikdy nedá. Pružný, odolný a neuvěřitelně zábavný na skocích a v pumptracku."
+    },
+    {
+      "title": "Ultra-moderní park geometrie",
+      "description": "Dlouhý reach a ultra-krátké řetězové vzpěry (385-400mm). Manuály na povel, skoky bez námahy."
+    }
+  ],
+  "productDetails": [
+    "Double butted 4130 chromoly rám",
+    "Ultra-moderní park geometrie",
+    "Dlouhý reach, ultra-krátké řetězové vzpěry",
+    "Nastavitelné patky 385-400mm",
+    "Kompatibilní s řazením i single speed",
+    "26\" kola",
+    "27.2mm sedlovka",
+    "Threaded 73mm středové složení"
+  ],
+  "geometry": [
+    { "label": "Seat Tube (C-T)", "md": "32.0" },
+    { "label": "Top Tube (Eff.)", "md": "60.5" },
+    { "label": "Head Tube Angle", "md": "68.5°" },
+    { "label": "Seat Tube Angle", "md": "72.0°" },
+    { "label": "Chainstay", "md": "38.5" },
+    { "label": "BB Height", "md": "32.5" },
+    { "label": "Wheelbase", "md": "106.1" },
+    { "label": "Stack", "md": "55.1" },
+    { "label": "Reach", "md": "42.6" }
+  ],
+  "sizeChart": [
+    { "size": "O/S", "minHeight": "168 cm", "maxHeight": "193 cm" }
+  ],
+  "builds": [],
+  "faqs": [],
+  "videos": [
+    { "id": "F9fixRlh8nM", "title": "Point — The Fly By" },
+    { "id": "HpbbcVLKaRM", "title": "Point — The Fulcrum of Radness" }
+  ],
+  "reviews": []
+}

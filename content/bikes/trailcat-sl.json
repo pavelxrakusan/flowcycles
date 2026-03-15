@@ -1,0 +1,79 @@
+{
+  "slug": "trailcat-sl",
+  "name": "Trailcat SL",
+  "category": "trail",
+  "tagline": "Lehký a šikovný",
+  "description": "Trailcat SL je lehčí verze s 120mm zdvihu vzadu a 140mm vpředu. Down-country kolo s Hollow Core rámem, Toolshed úložištěm a moderní geometrií pro ty, kdo chtějí jezdit rychle nahoru i dolů.",
+  "travelRear": "120mm",
+  "travelFront": "140mm",
+  "wheelSize": "29\"",
+  "heroImage": "/assets/bikes/trailcat-sl.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/trailcat-sl/beauty-01.webp",
+    "/assets/bikes/gallery/trailcat-sl/beauty-02.webp",
+    "/assets/bikes/gallery/trailcat-sl/beauty-03.webp",
+    "/assets/bikes/gallery/trailcat-sl/beauty-04.webp"
+  ],
+  "colors": [
+    { "name": "Dr Purple", "hex": "#462331", "hexSecondary": "#000000", "image": "/assets/bikes/colors/trailcat-sl-purple.png" },
+    { "name": "Green Meadow Mist", "hex": "#c9d5c4", "hexSecondary": "#89a494", "image": "/assets/bikes/colors/trailcat-sl-green.png" }
+  ],
+  "features": [
+    "120mm dw-link",
+    "Hollow Core karbon",
+    "FOX 34 vidlice",
+    "Toolshed úložiště",
+    "Flip chip",
+    "MX kompatibilní"
+  ],
+  "highlights": [
+    {
+      "title": "Down-country spirit",
+      "description": "120mm zdvihu a moderní geometrie. Efektivní do kopce, schopný z kopce. Pro jezdce, kteří chtějí jezdit rychle všude."
+    },
+    {
+      "title": "Lehkost s výkonem",
+      "description": "SL verze přináší nižší hmotnost rámu pro efektivnější stoupání bez kompromisů v tuhosti."
+    }
+  ],
+  "productDetails": [
+    "Ultra-lehký Hollow Core karbonový rám",
+    "120mm dw-link odpružení",
+    "140mm FOX 34 vidlice",
+    "Toolshed úložiště",
+    "Dual cable port design",
+    "Flip chip geometrie",
+    "MX kompatibilní",
+    "UDH standard"
+  ],
+  "geometry": [
+    { "label": "Head Tube Angle", "xs": "66.3°", "sm": "66.3°", "md": "66.3°", "lg": "66.3°", "xl": "66.3°" },
+    { "label": "Wheelbase", "xs": "114.2", "sm": "117.1", "md": "120.6", "lg": "122.5", "xl": "125.2" },
+    { "label": "Seat Tube (C-T)", "xs": "34.3", "sm": "36.8", "md": "39.4", "lg": "43.2", "xl": "47.0" }
+  ],
+  "sizeChart": [
+    { "size": "XS", "minHeight": "148 cm", "maxHeight": "163 cm" },
+    { "size": "S", "minHeight": "160 cm", "maxHeight": "173 cm" },
+    { "size": "M", "minHeight": "170 cm", "maxHeight": "183 cm" },
+    { "size": "L", "minHeight": "178 cm", "maxHeight": "190 cm" },
+    { "size": "XL", "minHeight": "185 cm", "maxHeight": "198 cm" }
+  ],
+  "builds": [],
+  "faqs": [],
+  "videos": [
+    { "id": "fl9mdl22ddU", "title": "Trailcat — Vše co potřebujete vědět" },
+    { "id": "jlT9Dz_x5LU", "title": "Jill Kintner jede Trailcat SL" }
+  ],
+  "reviews": [
+    {
+      "quote": "Trailcat SL má živý pocit a ostré ovládání pro okamžité změny směru.",
+      "author": "Will Barrett",
+      "publication": "Flow Mountain Bike"
+    },
+    {
+      "quote": "Mezi přístupným all-rounderem a precizním down-country závoďákem. Postavený pro dlouhé dny.",
+      "author": "Travis Engel",
+      "publication": "The Radavist"
+    }
+  ]
+}

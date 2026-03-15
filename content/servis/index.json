@@ -1,0 +1,36 @@
+{
+  "heroText": "Když mi svěříte kolo, odjede v lepším stavu, než v jakém přijelo. Každý servis začíná osobní prohlídkou a končí testovací jízdou.",
+  "introText": "Neservisuji kola na pásu. Každé kolo posoudím osobně, domluvíme se na rozsahu a termínu. Vy víte přesně co děláme a proč. Žádné překvapení na faktuře.",
+  "services": [
+    {
+      "title": "Kompletní servis kola",
+      "description": "Od základního seřízení brzd a řazení přes kompletní mytí a čištění až po generální přestavbu. Vše závisí na stavu vašeho kola — proto každý servis začíná prohlídkou.",
+      "detail": "Kontrola rámu, ložisek, řazení, brzd, kol, pneumatik, lanek. Všechny šrouby utažené momentovým klíčem.",
+      "image": "/assets/gallery/servis-01.jpg"
+    },
+    {
+      "title": "Servis odpružení Fox & Marzocchi",
+      "description": "Jako autorizované servisní centrum Fox a Marzocchi pracuji výhradně s originálními díly a postupy přímo od výrobce.",
+      "detail": "Lower leg servis, kompletní overhaul vidlic i tlumičů. Výměna olejů, těsnění, pouzder. Nastavení na míru.",
+      "image": "/assets/technology/fox-live-valve.jpg"
+    },
+    {
+      "title": "Nastavení odpružení na míru",
+      "description": "Správné nastavení odpružení je rozdíl mezi kolem, které jede a kolem, které jede skvěle.",
+      "detail": "Zvážíme vás v plné výbavě, nastavíme SAG, projedeme testovací okruh a doladíme podle zpětné vazby.",
+      "image": "/assets/technology/suspension-science.jpg"
+    },
+    {
+      "title": "Stavby a přestavby",
+      "description": "Nové kolo od rámu, přestavba stávajícího stroje, upgrade komponentů. Každý projekt řešíme individuálně.",
+      "detail": "Kompletní montáž s důrazem na detail. Lanka vedená čistě, brzdy perfektně odvzdušněné.",
+      "image": "/assets/images/bike_build.jpg"
+    }
+  ],
+  "process": [
+    { "step": "01", "title": "Zavolejte", "text": "Domluvíme termín, probereme co vás trápí." },
+    { "step": "02", "title": "Přijeďte", "text": "Společně prohlédneme kolo a domluvíme rozsah." },
+    { "step": "03", "title": "Servisujeme", "text": "Pracuji na kole osobně. Průběh komunikuji." },
+    { "step": "04", "title": "Převezměte", "text": "Projdeme co jsme dělali. Hotovo." }
+  ]
+}

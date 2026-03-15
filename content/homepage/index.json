@@ -1,0 +1,55 @@
+{
+  "heroSlides": [
+    {
+      "label": "Flowcycles Bike Studio",
+      "title": "Vaše kolo.\nNáš rukopis.",
+      "subtitle": "Stavíme, ladíme a servisujeme. Každý projekt začíná rozhovorem a končí kolem, na které se těšíte ráno u kávy.",
+      "image": "/assets/images/showroom.jpg",
+      "ctaText": "Prohlédnout kola",
+      "ctaHref": "/kola",
+      "ctaSecondaryText": "Navštívit studio",
+      "ctaSecondaryHref": "/kontakt"
+    },
+    {
+      "label": "Phoenix DW6 — 2026",
+      "title": "Na rychlost\njsme si dali čas",
+      "subtitle": "210 mm zdvihu, šestičlánková kinematika DW6, vítěz Světového poháru. Downhill nové generace je tady.",
+      "image": "/assets/bikes/gallery/phoenix/phoenix-action-03.webp",
+      "ctaText": "Prohlédnout Phoenix",
+      "ctaHref": "/kola/phoenix"
+    },
+    {
+      "label": "Stavba měsíce",
+      "title": "Firebird\nPurple Galaxy",
+      "subtitle": "Enduro bez kompromisů. 165 mm zdvihu, FOX Live Valve Neo a sestava laděná na míru.",
+      "image": "/assets/bikes/gallery/firebird/action-01.webp",
+      "ctaText": "Číst příběh",
+      "ctaHref": "/blog/stavba-mesice-firebird-purple-galaxy"
+    },
+    {
+      "label": "Pivot Switchblade",
+      "title": "Jedno kolo.\nKaždý trail.",
+      "subtitle": "142 mm zdvihu, 29\" kola, dw-link. Trail kolo, které nepotřebuje kompromisy.",
+      "image": "/assets/bikes/gallery/switchblade/action-01.webp",
+      "ctaText": "Prohlédnout Switchblade",
+      "ctaHref": "/kola/switchblade"
+    },
+    {
+      "label": "Custom stavby",
+      "title": "Rám vybereme.\nZbytek složíme.",
+      "subtitle": "Od prvního rozhovoru po předání klíčů — kolo na míru vašemu stylu jízdy, tělu i ambicím.",
+      "image": "/assets/gallery/action-ebike.jpg",
+      "ctaText": "Jak to funguje",
+      "ctaHref": "/custom-stavby"
+    }
+  ],
+  "intro": {
+    "heading": "Jmenuji se Andrej",
+    "paragraphs": [
+      "Starám se o kola. Flowcycles je místo zaměřené na kvalitní poradenství, příjemný zákaznický servis a péči o kola v té nejvyšší kvalitě. Každý projekt začíná rozhovorem — od výběru rámu přes komponentovou sestavu až po finální nastavení odpružení.",
+      "Jako autorizované servisní centrum Fox a Marzocchi nabízím špičkový servis s originálními díly. Výsledkem a mým největším potěšením je nádherné, funkční kolo a naprosto spokojený zákazník."
+    ],
+    "quote": "Dorazte na kávu — nejlépe mne zastihnete na telefonu.",
+    "image": "/assets/images/andrej.jpg"
+  }
+}

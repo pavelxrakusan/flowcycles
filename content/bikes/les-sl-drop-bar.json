@@ -1,0 +1,86 @@
+{
+  "slug": "les-sl-drop-bar",
+  "name": "LES SL Drop Bar",
+  "category": "cross-country",
+  "tagline": "XC s gravel DNA",
+  "description": "LES SL Drop Bar kombinuje ultra-lehký Hollow Core karbonový rám (800g) s drop bar geometrií. 100mm vidlice, moderní gravel/XC geometrie a nejlepší poměr tuhosti k hmotnosti ve třídě. Pro gravel závody, lesní cesty i rychlé kilometry.",
+  "travelRear": "Rigid",
+  "travelFront": "100mm",
+  "wheelSize": "29\"",
+  "heroImage": "/assets/bikes/les-sl-drop.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/les-sl-drop/gallery-01.webp",
+    "/assets/bikes/gallery/les-sl-drop/action-01.webp",
+    "/assets/bikes/gallery/les-sl-drop/gallery-02.webp",
+    "/assets/bikes/gallery/les-sl-drop/action-02.webp"
+  ],
+  "colors": [
+    { "name": "Silver Bullet", "hex": "#ebeded", "hexSecondary": "#5e626b" },
+    { "name": "Black Sunset", "hex": "#303030", "hexSecondary": "#4e4d54", "image": "/assets/bikes/colors/les-sl-drop-black.png" },
+    { "name": "Blue Ribbon", "hex": "#3f48cb", "hexSecondary": "#1d1f3d", "image": "/assets/bikes/colors/les-sl-drop-blue.png" }
+  ],
+  "features": [
+    "800g Hollow Core rám",
+    "Drop bar geometrie",
+    "100mm Step-Cast vidlice",
+    "SRAM Transmission",
+    "Boost spacing",
+    "UDH standard"
+  ],
+  "highlights": [
+    {
+      "title": "800 gramů s drop barem",
+      "description": "Stejný ultra-lehký Hollow Core rám jako Les SL, ale s geometrií optimalizovanou pro drop bar. XC lehkost s gravel versatilitou."
+    },
+    {
+      "title": "Moderní geometrie",
+      "description": "68.5° hlava, delší reach a nízký standover. Stabilní na šotolině, precizní na single tracku, pohodlný na dlouhých kilometrech."
+    }
+  ],
+  "productDetails": [
+    "Ultra-lehký Hollow Core karbonový rám (800g)",
+    "FOX Performance Step-Cast 32 100mm vidlice",
+    "SRAM GX Eagle Transmission",
+    "Drop bar specifická geometrie",
+    "Nejlepší poměr tuhosti k hmotnosti",
+    "Nízký standover (od 148 do 200 cm)",
+    "Interní vedení lanek",
+    "UDH standard",
+    "Boost 148×12mm",
+    "Pressfit BB92",
+    "Max pláště 29×2.4"
+  ],
+  "geometry": [
+    { "label": "Seat Tube (C-T)", "xs": "35.5", "sm": "39.5", "md": "42.0", "lg": "47.0", "xl": "51.0" },
+    { "label": "Top Tube (Eff.)", "xs": "56.5", "sm": "59.2", "md": "62.0", "lg": "63.8", "xl": "66.8" },
+    { "label": "Head Tube Angle", "xs": "68.0°", "sm": "68.5°", "md": "68.5°", "lg": "68.5°", "xl": "68.5°" },
+    { "label": "Seat Tube Angle", "xs": "75.0°", "sm": "74.5°", "md": "74.5°", "lg": "74.5°", "xl": "74.5°" },
+    { "label": "Chainstay", "xs": "42.9", "sm": "42.9", "md": "42.9", "lg": "42.9", "xl": "42.9" },
+    { "label": "BB Height", "xs": "31.0", "sm": "31.0", "md": "31.0", "lg": "31.0", "xl": "31.0" },
+    { "label": "Wheelbase", "xs": "108.6", "sm": "110.3", "md": "113.2", "lg": "115.0", "xl": "118.3" },
+    { "label": "Stack", "xs": "59.4", "sm": "60.1", "md": "60.1", "lg": "62.0", "xl": "63.8" },
+    { "label": "Reach", "xs": "40.0", "sm": "42.0", "md": "44.5", "lg": "46.0", "xl": "48.5" }
+  ],
+  "sizeChart": [
+    { "size": "XS", "minHeight": "148 cm", "maxHeight": "165 cm" },
+    { "size": "S", "minHeight": "160 cm", "maxHeight": "173 cm" },
+    { "size": "M", "minHeight": "168 cm", "maxHeight": "183 cm" },
+    { "size": "L", "minHeight": "178 cm", "maxHeight": "193 cm" },
+    { "size": "XL", "minHeight": "185 cm", "maxHeight": "200 cm" }
+  ],
+  "builds": [],
+  "faqs": [
+    {
+      "question": "Je kompatibilní s dropper postem?",
+      "answer": "Ano, LES SL Drop Bar má interní vedení pro dropper post."
+    },
+    {
+      "question": "Jaká je maximální šířka plášťů?",
+      "answer": "Maximálně 29×2.4 na ráfku 28-30mm."
+    }
+  ],
+  "videos": [
+    { "id": "3BhJkvI23r4", "title": "LES SL Drop Bar — Review" }
+  ],
+  "reviews": []
+}

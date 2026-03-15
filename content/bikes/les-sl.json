@@ -1,0 +1,80 @@
+{
+  "slug": "les-sl",
+  "name": "Les SL",
+  "category": "cross-country",
+  "tagline": "Čistokrevný závoďák",
+  "description": "Les SL je ultra-lehký XC hardtail s karbónovým Hollow Core rámem o hmotnosti pouhých 800g. Moderní závodní geometrie, nejlepší poměr tuhosti k hmotnosti ve třídě. Pro závodníky a rychlé jezdce.",
+  "travelRear": "Rigid",
+  "travelFront": "100mm",
+  "wheelSize": "29\"",
+  "heroImage": "/assets/bikes/les-sl.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/les-sl/action-01.webp",
+    "/assets/bikes/gallery/les-sl/action-02.webp",
+    "/assets/bikes/gallery/les-sl/action-03.webp"
+  ],
+  "colors": [
+    { "name": "Black Sunset", "hex": "#303030", "hexSecondary": "#4e4d54" },
+    { "name": "Silver Bullet", "hex": "#ebeded", "hexSecondary": "#5e626b", "image": "/assets/bikes/colors/les-sl-silver.png" },
+    { "name": "Blue Ribbon", "hex": "#3f48cb", "hexSecondary": "#1d1f3d", "image": "/assets/bikes/colors/les-sl-blue.png" }
+  ],
+  "features": [
+    "800g karbonový rám",
+    "Hollow Core technologie",
+    "Moderní HT geometrie",
+    "27.2mm sedlovka",
+    "Boost spacing",
+    "UDH standard"
+  ],
+  "highlights": [
+    {
+      "title": "800 gramů",
+      "description": "Rám medium váží pouhých 800g. Ultra-lehký Hollow Core karbonový layup s nejlepším poměrem tuhosti k hmotnosti ve své třídě."
+    },
+    {
+      "title": "Moderní hardtail",
+      "description": "Žádný retro hardtail. Les SL má moderní závodní geometrii s delším reachem a kratšími řetězovými vzpěrami. Stabilní v rychlosti, přesný v zatáčkách."
+    }
+  ],
+  "productDetails": [
+    "Ultra-lehký Hollow Core karbonový rám (800g medium)",
+    "Nejlepší poměr tuhosti k hmotnosti ve třídě",
+    "Lehké integrované hlavové složení",
+    "Moderní hardtail závodní geometrie",
+    "Nízký standover pro jezdce od 148 do 200 cm",
+    "Interní vedení lanek",
+    "Pivot Dock Tool systém",
+    "UDH standard",
+    "Boost 148×12mm",
+    "Pressfit BB92"
+  ],
+  "geometry": [
+    { "label": "Seat Tube (C-T)", "md": "42.0" },
+    { "label": "Top Tube (Eff.)", "md": "62.0" },
+    { "label": "Head Tube Angle", "md": "68.5°" },
+    { "label": "Seat Tube Angle", "md": "74.5°" },
+    { "label": "Chainstay", "md": "42.9" },
+    { "label": "Wheelbase", "md": "113.2" },
+    { "label": "Stack", "md": "60.1" },
+    { "label": "Reach", "md": "44.5" }
+  ],
+  "sizeChart": [
+    { "size": "XS", "minHeight": "148 cm", "maxHeight": "163 cm" },
+    { "size": "S", "minHeight": "160 cm", "maxHeight": "173 cm" },
+    { "size": "M", "minHeight": "170 cm", "maxHeight": "183 cm" },
+    { "size": "L", "minHeight": "178 cm", "maxHeight": "190 cm" },
+    { "size": "XL", "minHeight": "185 cm", "maxHeight": "198 cm" }
+  ],
+  "builds": [],
+  "faqs": [],
+  "videos": [
+    { "id": "JV4x9JWdWD4", "title": "Les SL — The Fly By" }
+  ],
+  "reviews": [
+    {
+      "quote": "Pro XC závody a rychlou jízdu je těžké Les SL něco vytknout. Ovládání bylo neuvěřitelné a lehkost nešla ignorovat při akceleraci a stoupání.",
+      "author": "Seiji Ishii",
+      "publication": "Gear Junkie"
+    }
+  ]
+}

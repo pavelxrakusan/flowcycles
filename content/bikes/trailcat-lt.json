@@ -1,0 +1,91 @@
+{
+  "slug": "trailcat-lt",
+  "name": "Trailcat LT",
+  "category": "trail",
+  "tagline": "Trail kolo s enduro schopnostmi",
+  "description": "Trailcat LT je trail kolo s enduro schopnostmi. 135mm zdvihu vzadu a 150mm vpředu na 29\" kolech. Ultra-lehký Hollow Core karbonový rám s Toolshed úložištěm, flip-chip geometrií a MX kompatibilitou.",
+  "travelRear": "135mm",
+  "travelFront": "150mm",
+  "wheelSize": "29\"",
+  "heroImage": "/assets/bikes/trailcat-lt.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/trailcat-lt/beauty-01.webp",
+    "/assets/bikes/gallery/trailcat-lt/action-01.webp",
+    "/assets/bikes/gallery/trailcat-lt/beauty-02.webp",
+    "/assets/bikes/gallery/trailcat-lt/action-02.webp",
+    "/assets/bikes/gallery/trailcat-lt/beauty-03.webp",
+    "/assets/bikes/gallery/trailcat-lt/action-03.webp"
+  ],
+  "colors": [
+    { "name": "Green Meadow Mist", "hex": "#c9d5c4", "hexSecondary": "#89a494", "image": "/assets/bikes/colors/trailcat-lt-green.png" },
+    { "name": "Dr Purple", "hex": "#462331", "hexSecondary": "#000000", "image": "/assets/bikes/colors/trailcat-lt-purple.png" }
+  ],
+  "features": [
+    "135mm dw-link",
+    "Hollow Core karbon",
+    "Toolshed úložiště",
+    "Flip chip geometrie",
+    "FOX Live Valve Neo",
+    "MX kompatibilní"
+  ],
+  "highlights": [
+    {
+      "title": "Víc než trail",
+      "description": "135mm zdvihu s agresivní geometrií zvládne i enduro tratě. Lehký rám a efektivní kinematika ale znamenají, že stoupání je radost, ne trest."
+    },
+    {
+      "title": "Toolshed a flip chip",
+      "description": "Integrované úložiště v rámu a na trati nastavitelná geometrie. Trailcat LT je připravený na celodenní výlety i závody."
+    },
+    {
+      "title": "MX ready",
+      "description": "Kompatibilní s 29\" i MX (29/27.5) konfigurací. Zvolte setup, který sedí vašemu terénu."
+    }
+  ],
+  "productDetails": [
+    "Ultra-lehký Hollow Core karbonový rám",
+    "135mm dw-link odpružení",
+    "150mm vidlice",
+    "Toolshed úložiště v rámu",
+    "Dual cable port design",
+    "Flip chip geometrie (nastavitelný na trati)",
+    "MX kola kompatibilní",
+    "FOX Live Valve Neo kompatibilní",
+    "Pivot Tool Dock systém",
+    "UDH standard"
+  ],
+  "geometry": [
+    { "label": "Seat Tube (C-T)", "xs": "34.3", "sm": "36.8", "md": "39.4", "lg": "43.2", "xl": "47.0" },
+    { "label": "Top Tube (Eff.)", "xs": "56.9", "sm": "59.6", "md": "62.9", "lg": "64.6", "xl": "66.0" },
+    { "label": "Head Tube Angle", "xs": "65.6°", "sm": "65.6°", "md": "65.6°", "lg": "65.6°", "xl": "65.6°" },
+    { "label": "Chainstay", "xs": "43.0", "sm": "43.0", "md": "43.0", "lg": "43.1", "xl": "43.3" },
+    { "label": "BB Height", "xs": "34.6", "sm": "34.6", "md": "34.6", "lg": "34.6", "xl": "34.6" },
+    { "label": "Wheelbase", "xs": "114.7", "sm": "117.6", "md": "121.1", "lg": "123.0", "xl": "125.6" },
+    { "label": "Head Tube Length", "xs": "8.5", "sm": "9.5", "md": "10.7", "lg": "11.2", "xl": "12.5" }
+  ],
+  "sizeChart": [
+    { "size": "XS", "minHeight": "148 cm", "maxHeight": "163 cm" },
+    { "size": "S", "minHeight": "160 cm", "maxHeight": "173 cm" },
+    { "size": "M", "minHeight": "170 cm", "maxHeight": "183 cm" },
+    { "size": "L", "minHeight": "178 cm", "maxHeight": "190 cm" },
+    { "size": "XL", "minHeight": "185 cm", "maxHeight": "198 cm" }
+  ],
+  "builds": [],
+  "faqs": [],
+  "videos": [
+    { "id": "fl9mdl22ddU", "title": "Trailcat LT — Vše co potřebujete vědět" },
+    { "id": "airRjYa-cyw", "title": "Bryn Atkinson jede Trailcat LT" }
+  ],
+  "reviews": [
+    {
+      "quote": "Lehký, svižný a tuhý rám s rychlým ovládáním. Krátký a manévrovatelný design pozitivně vyčnívá.",
+      "author": "Drew Rohde",
+      "publication": "The Loam Wolf"
+    },
+    {
+      "quote": "Pivot posunul výkon trail kola a zároveň zachoval geometrii s čísly zdvihu pro efektivní a univerzální balíček.",
+      "author": "Jonathon Simonetti",
+      "publication": "Vital MTB"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "mach-4-sl",
+  "name": "Mach 4 SL",
+  "category": "cross-country",
+  "tagline": "Rychlejší tam, kde na tom záleží",
+  "description": "Mach 4 SL je ultralehký XC speciál nové generace. Karbonový rám Hollow Core v kombinaci s odpružením dw-link přináší bezkonkurenční efektivitu šlapání a kontrolu v technickém terénu.",
+  "travelRear": "110–120mm",
+  "travelFront": "120mm",
+  "wheelSize": "29\"",
+  "heroImage": "/assets/bikes/mach-4-sl.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/mach4sl/gallery-01.webp",
+    "/assets/bikes/gallery/mach4sl/gallery-02.webp",
+    "/assets/bikes/gallery/mach4sl/gallery-03.webp",
+    "/assets/bikes/gallery/mach4sl/gallery-04.webp",
+    "/assets/bikes/gallery/mach4sl/gallery-05.webp",
+    "/assets/bikes/gallery/mach4sl/gallery-06.webp",
+    "/assets/bikes/gallery/mach4sl/gallery-07.webp",
+    "/assets/bikes/gallery/mach4sl/gallery-08.webp"
+  ],
+  "colors": [
+    {
+      "name": "Blue Stellar Fade",
+      "hex": "#1aaee5",
+      "hexSecondary": "#004284",
+      "image": "/assets/bikes/colors/mach4sl-blue-stellar.png"
+    },
+    {
+      "name": "White Avalanche",
+      "hex": "#e8e8e8",
+      "hexSecondary": "#4e4d54",
+      "image": "/assets/bikes/colors/mach4sl-white-avalanche.png"
+    }
+  ],
+  "features": [
+    "Ultralight Hollow Core karbonový rám",
+    "XC-tuned dw-link™ odpružení",
+    "Nastavitelný flip-chip (110/120mm)",
+    "Kompatibilita s RockShox Flight Attendant",
+    "Toolshed™ integrované úložiště",
+    "Interní vedení lanek"
+  ],
+  "highlights": [
+    {
+      "title": "Efektivita na prvním místě",
+      "description": "Systém odpružení dw-link eliminuje pedal bob a maximalizuje přenos výkonu. Šlapete nahoru stejně efektivně jako na hardtailu."
+    },
+    {
+      "title": "XC nové generace",
+      "description": "Moderní geometrie s delším dosahem a kratšími řetězovými vzpěrami. Stabilní v rychlosti, přesný v zatáčkách."
+    }
+  ],
+  "productDetails": [
+    "Ultralight Hollow Core karbonový rám",
+    "XC-tuned dw-link™ odpružení",
+    "Nastavitelný flip-chip (110/120mm zdvihu)",
+    "Kompatibilní s RockShox Flight Attendant",
+    "Velikostně specifický carbon layup",
+    "Vidlice 120mm",
+    "Pivot Toolshed™ úložiště v rámu",
+    "Plně interní vedení lanek",
+    "Velký prostor pro bidon"
+  ],
+  "geometry": [
+    { "label": "Seat Tube (C-T)", "xs": "35.5", "sm": "39.4", "md": "42.0", "lg": "46.0", "xl": "50.5" },
+    { "label": "Top Tube (Eff.)", "xs": "57.4", "sm": "59.1", "md": "61.9", "lg": "64.0", "xl": "67.2" },
+    { "label": "Head Tube Length", "xs": "8.5", "sm": "9.2", "md": "10.5", "lg": "11.0", "xl": "13.5" },
+    { "label": "Head Tube Angle", "xs": "66.0°", "sm": "66.0°", "md": "66.0°", "lg": "66.0°", "xl": "66.0°" },
+    { "label": "Seat Tube Angle (Eff.)", "xs": "75.0°", "sm": "75.0°", "md": "75.0°", "lg": "75.0°", "xl": "75.0°" },
+    { "label": "Chainstay Length", "xs": "43.2", "sm": "43.2", "md": "43.2", "lg": "43.2", "xl": "43.2" },
+    { "label": "BB Height", "xs": "33.6", "sm": "33.6", "md": "33.6", "lg": "33.6", "xl": "33.6" },
+    { "label": "BB Drop", "xs": "3.8", "sm": "3.8", "md": "3.8", "lg": "3.8", "xl": "3.8" },
+    { "label": "Wheelbase", "xs": "113.1", "sm": "114.9", "md": "117.9", "lg": "120.1", "xl": "123.6" },
+    { "label": "Stack", "xs": "58.3", "sm": "59.0", "md": "60.2", "lg": "60.6", "xl": "62.9" },
+    { "label": "Reach", "xs": "41.0", "sm": "42.5", "md": "45.0", "lg": "47.0", "xl": "49.5" }
+  ],
+  "sizeChart": [
+    { "size": "XS", "minHeight": "155 cm", "maxHeight": "165 cm" },
+    { "size": "S", "minHeight": "163 cm", "maxHeight": "173 cm" },
+    { "size": "M", "minHeight": "170 cm", "maxHeight": "180 cm" },
+    { "size": "L", "minHeight": "178 cm", "maxHeight": "188 cm" },
+    { "size": "XL", "minHeight": "185 cm", "maxHeight": "198 cm" }
+  ],
+  "builds": [
+    {
+      "name": "Mach 4 SL Pro XT",
+      "components": [
+        { "label": "Vidlice", "value": "Fox 34 Step-Cast Factory 120mm" },
+        { "label": "Tlumič", "value": "Fox Float DPS Factory" },
+        { "label": "Řazení", "value": "Shimano XT 12sp" },
+        { "label": "Brzdy", "value": "Shimano XT" },
+        { "label": "Kola", "value": "DT Swiss XRC 1200" },
+        { "label": "Pneumatiky", "value": "Maxxis Rekon Race / Aspen" },
+        { "label": "Sedlovka", "value": "Fox Transfer Factory" }
+      ]
+    },
+    {
+      "name": "Mach 4 SL Team XX AXS",
+      "components": [
+        { "label": "Vidlice", "value": "RockShox SID Ultimate 120mm" },
+        { "label": "Tlumič", "value": "RockShox SIDLuxe Ultimate" },
+        { "label": "Řazení", "value": "SRAM XX Eagle AXS T-Type" },
+        { "label": "Brzdy", "value": "SRAM Level Ultimate" },
+        { "label": "Kola", "value": "DT Swiss XRC 1200" },
+        { "label": "Pneumatiky", "value": "Maxxis Rekon Race / Aspen" },
+        { "label": "Sedlovka", "value": "RockShox Reverb AXS" }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Jaký je rozdíl mezi 110mm a 120mm nastavením?",
+      "answer": "Flip-chip umožňuje přepínat mezi 110mm a 120mm zdvihu. 110mm je efektivnější pro rovnější tratě a závody, 120mm přidává versatilitu v technickém terénu."
+    },
+    {
+      "question": "Je Mach 4 SL kompatibilní s Flight Attendant?",
+      "answer": "Ano, Mach 4 SL je plně kompatibilní s elektronickým systémem odpružení RockShox Flight Attendant, který automaticky upravuje tlumení v reálném čase."
+    }
+  ],
+  "videos": [
+    { "id": "JZ_CgO5wrXw", "title": "Mach 4 SL — Vše co potřebujete vědět" },
+    { "id": "PlYjpSu0LPQ", "title": "Rychlejší tam, kde na tom záleží" }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+  "heroTitle": "Custom stavby",
+  "heroDescription": "Každý jezdec je jiný. Proto stavíme kola na míru — od prvního rozhovoru po předání klíčů.",
+  "steps": [
+    {
+      "title": "Konzultace",
+      "description": "Všechno začíná rozhovorem. Probereme váš styl jízdy, zkušenosti, tělesné proporce, preference a rozpočet. Žádný dotazník — osobní setkání u kávy ve studiu. Potřebujeme pochopit, co od kola očekáváte, abychom vám mohli doporučit to nejlepší řešení.",
+      "image": "/assets/images/showroom.jpg"
+    },
+    {
+      "title": "Výběr rámu",
+      "description": "Společně vybereme ideální rám — značku, model, velikost a geometrii. Zohledníme vaši výšku, dosah, styl jízdy i terén, kde nejčastěji jezdíte. Pokud jste mezi dvěma velikostmi, poradíme na základě zkušeností s desítkami staveb.",
+      "image": "/assets/gallery/kola-01.jpg"
+    },
+    {
+      "title": "Komponenty",
+      "description": "Sestavíme specifikaci komponent na míru — vidlice, tlumič, řazení, brzdy, kola, pláště, řídítka, sedlo. Každý komponent vybíráme s ohledem na váš styl jízdy a vzájemnou kompatibilitu. Žádné kompromisy kvůli ceně balíčku.",
+      "image": "/assets/gallery/komponenty-01.jpg"
+    },
+    {
+      "title": "Stavba",
+      "description": "Profesionální montáž s důrazem na každý detail. Všechny šrouby utažené momentovým klíčem přesně podle specifikace výrobce. Lanka vedená čistě, brzdy perfektně odvzdušněné. Žádné zkratky.",
+      "image": "/assets/images/bike_build.jpg"
+    },
+    {
+      "title": "Nastavení",
+      "description": "Finální nastavení odpružení na míru vaší hmotnosti a stylu jízdy. SAG, rebound, komprese — vše precizně vyladěné. Sed, výška řídítek, šířka — poslední úpravy, které dělají zásadní rozdíl.",
+      "image": "/assets/technology/suspension-science.jpg"
+    },
+    {
+      "title": "Předání",
+      "description": "Osobní předání kola ve studiu. Projdeme spolu celé nastavení, vysvětlíme údržbu a dáme tipy na první kilometry. A samozřejmě — fotka hotového projektu pro naši galerii staveb.",
+      "image": "/assets/images/andrej.jpg"
+    }
+  ]
+}

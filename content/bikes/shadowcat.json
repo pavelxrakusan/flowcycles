@@ -1,0 +1,84 @@
+{
+  "slug": "shadowcat",
+  "name": "Shadowcat",
+  "category": "trail",
+  "tagline": "Hravá bestie",
+  "description": "Trail kolo na 27.5\" kolech s 140mm zdvihu vzadu a 160mm vpředu. Ultra-lehký Hollow Core karbonový rám, krátké 430mm řetězové vzpěry a FOX Live Valve Neo. Pro jezdce, kteří chtějí na trailu hlavně zábavu.",
+  "travelRear": "140mm",
+  "travelFront": "160mm",
+  "wheelSize": "27.5\"",
+  "heroImage": "/assets/bikes/shadowcat-hires.png",
+  "galleryImages": [
+    "/assets/bikes/gallery/shadowcat/action-01.webp",
+    "/assets/bikes/gallery/shadowcat/action-02.webp",
+    "/assets/bikes/gallery/shadowcat/action-03.webp",
+    "/assets/bikes/gallery/shadowcat/action-04.webp"
+  ],
+  "colors": [
+    { "name": "Disco Oil Slick", "hex": "#2f607c", "hexSecondary": "#ed2c82", "image": "/assets/bikes/colors/shadowcat-disco.webp" },
+    { "name": "Dangerfruit", "hex": "#a04275", "hexSecondary": "#5b224c", "image": "/assets/bikes/colors/shadowcat-dangerfruit.webp" },
+    { "name": "Blue Mirage", "hex": "#5c707f", "image": "/assets/bikes/colors/shadowcat-blue.webp" }
+  ],
+  "features": [
+    "140mm dw-link",
+    "27.5\" kola",
+    "430mm chainstay",
+    "FOX Live Valve Neo",
+    "Hollow Core karbon",
+    "44mm offset vidlice"
+  ],
+  "highlights": [
+    {
+      "title": "Hravost 27.5\"",
+      "description": "Menší kola znamenají rychlejší akceleraci, snazší manuály a více zábavy v technických sekcích. Shadowcat je pro jezdce, kteří chtějí na trailu kreativitu."
+    },
+    {
+      "title": "Krátké patky, dlouhý reach",
+      "description": "430mm řetězové vzpěry a moderní geometrie. Agilní v zatáčkách, stabilní v rychlosti. Nejlepší z obou světů."
+    }
+  ],
+  "productDetails": [
+    "Ultra-lehký Hollow Core karbonový rám",
+    "140mm dw-link odpružení",
+    "160mm FOX 36 vidlice (44mm offset)",
+    "27.5\" kola",
+    "Krátké 430mm řetězové vzpěry",
+    "FOX Live Valve Neo kompatibilní",
+    "Plně interní vedení lanek",
+    "Moderní trail geometrie"
+  ],
+  "geometry": [
+    { "label": "Seat Tube (C-T)", "xs": "34.3", "sm": "36.8", "md": "39.4", "lg": "43.2" },
+    { "label": "Top Tube (Eff.)", "xs": "56.9", "sm": "59.5", "md": "62.7", "lg": "65.0" },
+    { "label": "Head Tube Angle", "xs": "65.8°", "sm": "65.8°", "md": "65.8°", "lg": "65.8°" },
+    { "label": "Seat Tube Angle", "xs": "76°", "sm": "76°", "md": "76°", "lg": "76°" },
+    { "label": "Chainstay", "xs": "43.0", "sm": "43.0", "md": "43.0", "lg": "43.0" },
+    { "label": "BB Height", "xs": "34.0", "sm": "34.0", "md": "34.0", "lg": "34.0" },
+    { "label": "Wheelbase", "xs": "114.2", "sm": "117.2", "md": "120.6", "lg": "123.0" },
+    { "label": "Stack", "xs": "58.2", "sm": "60.5", "md": "61.4", "lg": "62.3" },
+    { "label": "Reach", "xs": "41.0", "sm": "43.0", "md": "46.0", "lg": "48.0" }
+  ],
+  "sizeChart": [
+    { "size": "XS", "minHeight": "148 cm", "maxHeight": "163 cm" },
+    { "size": "S", "minHeight": "160 cm", "maxHeight": "173 cm" },
+    { "size": "M", "minHeight": "170 cm", "maxHeight": "183 cm" },
+    { "size": "L", "minHeight": "178 cm", "maxHeight": "193 cm" }
+  ],
+  "builds": [],
+  "faqs": [],
+  "videos": [
+    { "id": "AaxfSapYceM", "title": "Shadowcat — The Fly By" }
+  ],
+  "reviews": [
+    {
+      "quote": "Rychlé, responzivní ovládání a poppy odpružení mě povzbuzovaly hledat alternativní lajny a malé skoky.",
+      "author": "Jessie-May Morgan",
+      "publication": "Pinkbike"
+    },
+    {
+      "quote": "Shadowcat má živou a svižnou povahu, která přímo vybízí k hledání nejkreativnější cesty z kopce.",
+      "author": "Spencer Astra",
+      "publication": "Freehub"
+    }
+  ]
+}
