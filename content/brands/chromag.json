@@ -1,6 +1,6 @@
 {
-  "slug": "chromag",
   "name": "Chromag",
+  "slug": "chromag",
   "tagline": "Whistler. Kořeny v dirt jumpu.",
   "description": "Kanadská značka z Whistleru, BC — kolébky gravity ridingu. Chromag vyrábí řídítka, představce, sedla a gripy.",
   "story": "Chromag vznikl v srdci Whistleru — v komunitě jezdců, kteří potřebovali komponenty schopné přežít nejdrsnější podmínky na planetě.",
@@ -12,5 +12,6 @@
   ],
   "origin": "Whistler, BC, Kanada",
   "website": "https://chromagbikes.com",
-  "accentColor": "#e63946"
+  "accentColor": "#e63946",
+  "logo": "/assets/chromag.png"
 }
